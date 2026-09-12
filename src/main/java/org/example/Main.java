@@ -1,11 +1,10 @@
 package org.example;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 public class Main {
     public static void main(String[] args) {
 
-        // 1. Probamos el constructor con un piloto valido
+        // 1. Probamos el constructor con un piloto válido
         Driver bestDriver = new Driver(3, "Max Verstappen",
                 "Red Bull");
 
